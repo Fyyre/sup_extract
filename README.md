@@ -1,7 +1,6 @@
-# Extract Forsaken World (Shenmo) .SUP update packages, with ease
-## Fyyre - https://github.com/Fyyre
+### Extract Forsaken World (Shenmo) .SUP update packages, with ease
+#### Fyyre - https://github.com/Fyyre
 
-## Usage: python3 sup_extract.py
 ```
 usage: sup_extract.py [-h] [-l] sup_file [output_dir]
 
